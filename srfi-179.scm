@@ -81,7 +81,8 @@ MathJax.Hub.Config({
               (<li> "Revised to fix errata:"
                     (<ul> (<li> "2020-10-08 (Fix documentation for "(<code>'interval-subset?)".)")
                           (<li> "2021-02-24 (Correct the note comparing  "(<code>'array-curry)" and "(<code>'array-tile)".)")
-                          (<li> "2021-05-02 (Correct documentation of "(<code>'interval-cartesian-product)"; document initial values for "(<code> "(specialized-array-default-safe?)")" and "(<code> "(specialized-array-default-mutable?)")".")))
+                          (<li> "2021-05-02 (Correct documentation of "(<code>'interval-cartesian-product)"; document initial values for "(<code> "(specialized-array-default-safe?)")" and "(<code> "(specialized-array-default-mutable?)")".)")
+                          (<li> "2021-12-22 (Use "(<code>'vector-concatenate)" in place of "(<code>'append-vectors)" in reference implementation.)")))
               (<li> id: 'pfn1 "Post-finalization note added on 2020-12-10: The document
 was updated to improve the examples and to explain the use of "(<code>'array-copy)" to
 improve efficiency in some situations.")
